@@ -2,7 +2,7 @@
 
 A small sample of live public proxies — HTTP, SOCKS4 and SOCKS5 — each verified by an automated checker and tagged with country and latency. **Refreshed every 30 minutes.**
 
-**Updated:** 2026-07-06 02:00 UTC · **Proxies in this sample:** 200 (HTTP 129 · SOCKS4 9 · SOCKS5 62)
+**Updated:** 2026-07-06 02:30 UTC · **Proxies in this sample:** 200 (HTTP 140 · SOCKS4 13 · SOCKS5 47)
 
 ## Files
 | File | Contents |
