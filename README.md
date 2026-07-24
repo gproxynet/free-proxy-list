@@ -2,7 +2,7 @@
 
 A small sample of live public proxies — HTTP, SOCKS4 and SOCKS5 — each verified by an automated checker and tagged with country and latency. **Refreshed every 30 minutes.**
 
-**Updated:** 2026-07-24 21:00 UTC · **Proxies in this sample:** 200 (HTTP 134 · SOCKS4 11 · SOCKS5 55)
+**Updated:** 2026-07-24 21:09 UTC · **Proxies in this sample:** 200 (HTTP 137 · SOCKS4 6 · SOCKS5 57)
 
 ## Files
 | File | Contents |
@@ -28,6 +28,7 @@ Public proxies are **unstable and unreliable by nature** — they die within min
 ## Tools
 - [proxyspin](https://github.com/gproxynet/proxyspin) — rotating proxy pool for Scrapy, Playwright & requests
 - [Proxy Switcher & Manager](https://github.com/gproxynet/proxy-switcher) — one-click proxy switcher for Chrome
+- [Proxy Access Index](https://github.com/gproxynet/proxy-access-index) — daily data on which sites a live proxy pool still passes
 
 ---
 *Auto-generated every 30 minutes. Do not edit by hand.*
